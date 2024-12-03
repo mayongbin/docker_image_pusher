@@ -1,2 +1,2 @@
-wurstmeister/kafka:2.13
+wurstmeister/kafka:2.13-2.8.1
 wurstmeister/zookeeper:3.4.6
