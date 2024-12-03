@@ -1,1 +1,1 @@
-wurstmeister/zookeeper
+bitnami/kafka
