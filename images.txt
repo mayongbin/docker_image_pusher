@@ -1,1 +1,1 @@
-bitnami/kafka
+dushixiang/kafka-map
