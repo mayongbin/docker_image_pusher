@@ -4,4 +4,5 @@
 #apache/rocketmq:4.4.0
 #apacherocketmq/rocketmq-console:2.0.0
 #bitnami/minio:latest
-elestio/minio:latest
+#elestio/minio:latest
+logstash:7.9.1
