@@ -2,4 +2,4 @@
 #jenkins/jenkins:2.440.2
 #redis:5.0.14
 #apache/rocketmq:4.4.0
-rocketmq-console:2.0.0
+apacherocketmq/rocketmq-console:2.0.0
