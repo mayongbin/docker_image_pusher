@@ -1,1 +1,4 @@
-nginx:1.26.1
+fluentd:v1.17-1
+elasticsearch:7.9.1
+kibana:7.9.1
+
