@@ -6,7 +6,8 @@
 #bitnami/minio:latest
 #elestio/minio:latest
 #logstash:7.9.1
-calico/cni:v3.20.6
-calico/pod2daemon-flexvol:v3.20.6
-calico/node:v3.20.6
-calico/kube-controllers:v3.20.6
+#calico/cni:v3.20.6
+#calico/pod2daemon-flexvol:v3.20.6
+#calico/node:v3.20.6
+#calico/kube-controllers:v3.20.6
+emqx:5.8.3
