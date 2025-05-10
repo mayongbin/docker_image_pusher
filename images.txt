@@ -1,6 +1,6 @@
 #grafana/grafana:8.1.6
 #jenkins/jenkins:2.440.2
-redis:6.2.6
+#redis:6.2.6
 #apache/rocketmq:4.4.0
 #apacherocketmq/rocketmq-console:2.0.0
 #bitnami/minio:latest
@@ -11,3 +11,4 @@ redis:6.2.6
 #calico/node:v3.20.6
 #calico/kube-controllers:v3.20.6
 #emqx:5.8.3
+bitnami/redis:6.2.6
