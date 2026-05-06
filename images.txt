@@ -15,4 +15,5 @@
 #mariadb:10.5.28
 #ubuntu:20.04
 #nginx:alpine
-mcr.microsoft.com/mssql/server:2019-latest
+#mcr.microsoft.com/mssql/server:2019-latest
+zlmediakit/zlmediakit:master
