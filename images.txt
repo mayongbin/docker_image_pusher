@@ -18,4 +18,5 @@
 #mcr.microsoft.com/mssql/server:2019-latest
 #zlmediakit/zlmediakit:master
 #mysql:8.0.32
-nginx:alpine
+#nginx:alpine
+redis:latest
