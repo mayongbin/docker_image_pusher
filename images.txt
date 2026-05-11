@@ -19,4 +19,5 @@
 #zlmediakit/zlmediakit:master
 #mysql:8.0.32
 #nginx:alpine
-redis:latest
+#redis:latest
+ubuntu:20.04
