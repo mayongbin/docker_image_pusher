@@ -21,4 +21,5 @@
 #nginx:alpine
 #redis:latest
 #ubuntu:20.04
-elasticsearch:-8.11.3
+#elasticsearch:-8.11.3
+eclipse-temurin:8-jdk
