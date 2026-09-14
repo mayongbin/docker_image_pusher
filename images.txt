@@ -22,4 +22,5 @@
 #redis:latest
 #ubuntu:20.04
 #elasticsearch:-8.11.3
-eclipse-temurin:8-jdk
+#eclipse-temurin:8-jd
+neo4j:latest
